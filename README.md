@@ -31,8 +31,7 @@ and **Lockdown Mode** protections.
 ---
 
 ## 📫 Connect
-- GitHub: [xivks](https://github.com/xivks)  
-- (Optional: add LinkedIn/Twitter if you want reviewers to see more)  
+- GitHub: [xivks](https://github.com/xivks)   
 
 ---
 
