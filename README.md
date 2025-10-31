@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Varun (xivks)
 
-🔒 Security Researcher | iOS & Cloud Security | Bug Bounty Hunter  
+**Aspiring Apple SRD Researcher | Bugcrowd Verified | Focused on Webhook & API Behavior Analysis**
+
 
 I have a strong passion for **Apple device security** and have been exploring iOS internals 
 and security surfaces since my college days. My focus areas align with Apple’s ongoing 
