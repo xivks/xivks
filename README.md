@@ -1,40 +1,40 @@
 # 👋 Hi, I'm Varun (xivks)
 
-**Aspiring Apple SRD Researcher | Bugcrowd Verified | Focused on Webhook & API Behavior Analysis**
+### 🧠 Security Researcher | Senior IT Administrator | SRD Applicant
 
+I specialize in **behavioral vulnerability research** (SSRF, Webhook, Fetcher, and CORS behavior) and **secure infrastructure management** (Windows/Linux/Azure).
 
-I have a strong passion for **Apple device security** and have been exploring iOS internals 
-and security surfaces since my college days. My focus areas align with Apple’s ongoing 
-research challenges, particularly around **Private Cloud Compute**, **Beta Software regressions**, 
-and **Lockdown Mode** protections.
-
----
-
-## 🎯 Research Focus
-- **Private Cloud Compute (PCC):** Threat models, attestation integrity, and potential side-channel risks.  
-- **Beta Regressions:** Identifying issues unique to developer/public beta releases, including reintroduced bugs.  
-- **Lockdown Mode:** Testing restrictions, analyzing parsers, and spotting bypass opportunities.  
+Currently:
+- 🧩 Participating in **Bugcrowd programs** – Atlassian & Glean (responsible disclosure)
+- 🍏 **Apple Security Research Device (SRD)** applicant – iOS Private Cloud Compute and Lockdown Mode focus
+- 🔬 Building small-scale PoCs, automation scripts, and safe fuzzing setups for SaaS security
+- 💡 Strong advocate of ethical testing, coordinated disclosure, and real-world defense improvement
 
 ---
 
-## 🛠️ Current Work
-- Building fuzzing harnesses for **plist/JSON-like parsers**.  
-- Documenting research methodologies and security reporting templates.  
-- Actively participating in **Bugcrowd** and preparing for Apple’s Security Bounty program.  
+### 🧰 Tech & Research Stack
+- **Security:** SSRF, CORS, Redirects, Fetch Analysis, XSS, API Hardening  
+- **Cloud & Infra:** Azure, Hyper-V, Active Directory, Linux System Admin  
+- **Scripting:** PowerShell, Bash, Python, Node.js  
+- **Tools:** Burp Suite, curl, Wireshark, Postman, nmap, Zaproxy
 
 ---
 
-## 📂 Highlighted Repositories
-- [📖 iOS Security Research Notes](https://github.com/xivks/ios-security-research-notes)  
-- [🚀 iOS Fuzzing Harness (Educational)](https://github.com/xivks/ios-fuzzing-harness)  
-- [📝 Bug Bounty Reports (Redacted)](https://github.com/xivks/bugbounty-reports)  
+### 📂 Featured Repositories
+| Repo | Description |
+|------|--------------|
+| [**atlassian-behavioral-ssrf-poc**](#) | Safe demo showing how webhook fetchers respond differently across address spaces (RFC1918, metadata, external). |
+| [**glean-webhook-probe-lab**](#) | Test harness replicating safe outbound fetch and error handling behaviors, used for vendor coordination. |
+| [**srd-prep-tools**](#) | Scripts and environment setup used for iOS behavioral analysis and logging. |
+| [**infra-scripts-automation**](#) | PowerShell and Bash automation for server configuration, patch management, and diagnostics. |
 
 ---
 
-## 📫 Connect
-- GitHub: [xivks](https://github.com/xivks)   
+### 🧩 Contact
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/xaivks/)
+- 🕸️ [Bugcrowd Researcher Profile](https://bugcrowd.com/h/xivks)
+- 📧 varunkumars@proton.me (security contact)
 
 ---
 
-⚠️ **Disclaimer:** All repositories and notes here are for **educational and responsible research purposes only**.  
-No active exploit code, confidential Apple IP, or unsafe material is included.
+> “Exploring vulnerabilities to strengthen security — one responsible disclosure at a time.” 🔐
